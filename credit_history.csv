@@ -1,0 +1,4 @@
+CustomerID,PreviousLoans,RepaymentHistory,MissedPayments
+2527040,800000,Good,0
+2527042,400000,Good,0
+2527040,2500000,Average,2
